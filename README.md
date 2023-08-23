@@ -25,7 +25,7 @@ Cristão Evangélico, apaixonado por Tecnologia, atualmento estudando Segurança
 !["banner](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-### ✏️      Estudando
+## ✏️      Estudando
 
 
 ### 🖥️ Redes de Computadores
@@ -36,7 +36,8 @@ Cristão Evangélico, apaixonado por Tecnologia, atualmento estudando Segurança
 
 <div><br>
 
-### 🎖️ Certificações
+## 🎖️ Certificações
+<div>
 
 ### 🧾 Datacom:
 
