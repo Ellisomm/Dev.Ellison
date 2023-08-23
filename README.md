@@ -12,14 +12,12 @@ Cristão Evangélico, apaixonado por Tecnologia, atualmento estudando Segurança
 ![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
-
-
+<div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellisomm&show_icons=true&bg_color=000000)
 
 
-### Sistemas em uso!
+### Sistemas que domino!
 
 !["banner](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 !["banner](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -28,7 +26,6 @@ Cristão Evangélico, apaixonado por Tecnologia, atualmento estudando Segurança
 
 
 ### ✏️      Estudando
-<div>
 
 
 ### 🖥️ Redes de Computadores
@@ -36,3 +33,15 @@ Cristão Evangélico, apaixonado por Tecnologia, atualmento estudando Segurança
 ### 🔏 Segurança da Informação
 
 ### 🔬 Ciência da Dados em Paython
+
+<div><br>
+
+### 🎖️ Certificações
+
+### 🧾 Datacom:
+
+### 🧾 Mikrotik:
+
+### 🧾 Cisco:
+
+### 🧾 Intelbras:
