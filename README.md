@@ -1,8 +1,5 @@
 
-
 ### Olá EU sou Ellison Nascimento 🖐️
-
-
 
 ![Blog](https://aleen42.github.io/badges/src/lamborghini.svg)
 ![Blog](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
