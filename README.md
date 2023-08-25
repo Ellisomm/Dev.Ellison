@@ -2,7 +2,7 @@
 
 ### Olá, Eu sou Ellison Nascimento 🖐️
 
-Cristão Evangélico, apaixonado por Tecnologia, atualmento estudando Segurança da Informação, faculdade UNIASSELVI, e Ciência de Dados em Python programa de bolsa Bootcamp SANTANDER, minha confição de Fé é Cristo O que define o conceito de cristão é a forma, ou seja, o modelo de doutrina estabelecido por Cristo. 
+A minha trajetória ainda está sendo construída, pois ainda tenho muitos desafios e aprendizados na minha formação como desenvolvedora web front-end, mas me orgulho muito da minha minha trajetória acadêmica e profissional até aqui.
 
 
 
