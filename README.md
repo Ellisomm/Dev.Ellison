@@ -2,7 +2,7 @@
 
 ### Olá, Eu sou Ellison Nascimento 🖐️
 
-A minha trajetória ainda está sendo construída, pois ainda tenho muitos desafios e aprendizados na minha formação como desenvolvedora web front-end, mas me orgulho muito da minha minha trajetória acadêmica e profissional até aqui.
+A minha trajetória ainda está sendo construída, pois ainda tenho muitos desafios e aprendizados na minha formação como desenvolvedor web front-end, mas me orgulho muito da minha trajetória acadêmica e profissional até aqui.
 
 
 
